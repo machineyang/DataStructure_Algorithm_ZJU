@@ -151,3 +151,5 @@ To-do:
 ## [第十二讲 KMP算法](https://github.com/CYBruce/DataStructure-Algorithm_ZJU/tree/week1/KMP%E7%AE%97%E6%B3%95)
 ### 课件内容：
 * 串的模式匹配（KMP算法）
+
+## modifiy by machine yang
